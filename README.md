@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @pooja101010
+- 👀 I’m interested in finding meaningful information from the data...
+- 🌱 I’m currently learning data analyiss skills...
+- 📫 How to reach me poojagoyal82@gmail.com  and pooja101010@gmail.com...
+
+<!---
+pooja101010/pooja101010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
